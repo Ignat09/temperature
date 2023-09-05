@@ -1,0 +1,15 @@
+.cold{
+    color: rgb(78, 145, 247);
+}
+.hot{
+    color: rgb(223, 209, 14);
+}
+.very_cold{
+    color: rgb(6, 75, 179);
+}
+.very_hot{
+    color: rgb(235, 44, 10);
+}
+.comfort{
+    color: rgb(12, 187, 12);
+}
